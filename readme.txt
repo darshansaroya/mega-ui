@@ -6,6 +6,7 @@ Tested up to: 5.2.4
 Mega UI WordPress Theme, Copyright 2018 by Darshan Saroya (https://darshansaroya.com/)
 Mega UI is distributed under the terms of the GNU GPL
 
+
 License: GNU General Public License v2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
